@@ -8,4 +8,4 @@
 
 - pass_nonpass_eda : new feature 60, 61 추가 + x feature 개별과 y label 개별 cor 시각화 + vif 
 
-- 14y_automl : y 개별 14개 회귀 모델(작성중)
+- 14y_automl : y 개별 14개 회귀 모델
