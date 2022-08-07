@@ -9,3 +9,5 @@
 - pass_nonpass_eda : new feature 60, 61 추가 + x feature 개별과 y label 개별 cor 시각화 + vif 
 
 - 14y_automl : y 개별 14개 회귀 모델
+
+-pass_nonpass_model: y 기준으로 양품/불량품 그루핑 + 각자에 맞춘 모델 학습(양품은 양품에 대해서만 학습, 불량은 전체에 대해 학습,due to too high score(3.0)) + feature importance, without tuning
