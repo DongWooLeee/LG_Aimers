@@ -35,4 +35,7 @@
 이렇게 해주시고
 
 이후에 합쳐서 내보고
-그 상황에서 더 성능 끌어올리려면 인희님 하시던 feature 만들기... 등을 시도해보면 좋을 것 같습니당
+그 상황에서 더 성능 끌어올리려면 인희님 하시던 feature 만들기... 등을 시도해보면 좋을 것 같습니당  
+
+
+실험 : https://docs.google.com/document/d/1ZgGzkRDP3und5h2CHB3J24yhPC7ytGXgFmdMb17nXcw/edit
